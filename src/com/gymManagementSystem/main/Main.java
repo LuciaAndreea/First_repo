@@ -29,7 +29,7 @@ public class Main {
         trainer1.setSpecializare("fitness");
 
         Trainer trainer2 = new Trainer();
-        trainer2.setName("Angerlica");
+        trainer2.setName("Anastasia");
         trainer2.setSpecializare("aerobic");
 
         gymService.addTrainer(trainer1);
